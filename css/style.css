@@ -1,0 +1,81 @@
+* {
+    border: solid red 1px
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+
+}
+
+h1 {
+    width: 1700px;
+    align-items: center;
+    background-color: aqua;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__div {
+    width: 750px;
+    height: 600px;
+    background-image: url(../images/pokedex.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.main__div--pokemon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 225px;
+    height: 145px;
+    position: relative;
+    top: 198px; 
+    left: 84px;
+}
+
+.main__div--number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 330px; 
+    left: 108px;
+    width: 105px;
+    height: 45px;
+    color:black;
+    font-size: 1.5em;
+}
+
+.main__div--name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+    top: 22px;
+    left: 462px;
+    width: 220px;
+    height: 75px;
+    color:white;
+    font-size: 2em;
+}
