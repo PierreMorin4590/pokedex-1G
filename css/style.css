@@ -20,7 +20,13 @@ header {
     justify-content: center;
     width: 100%;
     text-align: center;
+}
 
+footer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
 }
 
 h1 {

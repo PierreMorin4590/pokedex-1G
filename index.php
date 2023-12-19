@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokedex</title>
-    <link rel="stylesheet" href="../css/reset.css">
-    <link rel="stylesheet" href="../css/style.css">
+    <title>Pokédex</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
     <header>
@@ -14,7 +14,7 @@
     <main class="main">
         <div class="main__div">
             <div class="main__div--pokemon">
-                <img src="../images/pokemon/006.png" width="180" alt="">
+                <img src="./images/pokemon/006.png" width="180" alt="">
             </div>
             <div class="main__div--number">
                 #006
@@ -25,7 +25,7 @@
         </div>
     </main>
     <footer>
-        
+            <p>Peu importe le nombre ou la puissance des Pokémons que l'on possède, rien n'est plus fort que le lien qui unit un Pokémon à son dresseur.</p>
     </footer>
 </body>
 </html>
