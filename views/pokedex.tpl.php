@@ -1,13 +1,13 @@
 <main class="main">
         <div class="main__div">
             <div class="main__div--pokemon">
-                <img src="<?= $pokemon->sprites->front_default ?>" width="180" alt="">
+                <img src="<?= $pokemonData->sprites->front_default; ?>" width="180" alt="">
             </div>
             <div class="main__div--number">
-                #006
+                <?='#'.$pokemonDataSpecies->id ?>
             </div>
             <div class="main__div--name">
-                Dracaufeu
+                <?=$pokemonDataSpecies->names[4]->name; ?>
             </div>
         </div>
     </main>
