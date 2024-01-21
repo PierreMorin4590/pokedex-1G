@@ -5,9 +5,9 @@ Ce projet a été réalisé de façon personnelle en parallèle de ma formation 
 
 Au moment de réaliser ce projet, nous venions de terminer les 3 premières saisons de la formation O'clock, à savoir :
 
-• Saison 1 : HTML/CSS
-• Saison 2 : Découverte des bases de PHP
-• Saison 3 : Découverte des bases JavaScript
+• Saison 1 : HTML/CSS  
+• Saison 2 : Découverte des bases de PHP  
+• Saison 3 : Découverte des bases JavaScript  
 
 ## Objectifs personnels
 
