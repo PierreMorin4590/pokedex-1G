@@ -7,7 +7,7 @@ Au moment de réaliser ce projet, nous venions de terminer les 3 premières sais
 
 • Saison 1 : HTML/CSS  
 • Saison 2 : Découverte des bases de PHP  
-• Saison 3 : Découverte des bases JavaScript  
+• Saison 3 : Découverte des bases de JavaScript  
 
 ## Objectifs personnels
 
