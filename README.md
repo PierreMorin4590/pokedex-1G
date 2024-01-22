@@ -13,9 +13,9 @@ Au moment de réaliser ce projet, nous venions de terminer les 3 premières sais
 
 Les objectifs que je me suis fixé pour ce projet sont les suivants :
 
-• Afficher de façon dynamique avec PHP l'image, le nom et le numéro d'un Pokemon
-• Aller chercher les données mentionnées ci-dessus via l'API [PokéAPI](https://pokeapi.co/) et comprendre comment fonctionne une API
-• Pour la partie HTML/CSS, faire apparaître tout cela dans une image de Pokédex
+• Afficher de façon dynamique avec PHP l'image, le nom et le numéro d'un Pokemon  
+• Aller chercher les données mentionnées ci-dessus via l'API [PokéAPI](https://pokeapi.co/) et comprendre comment fonctionne une API  
+• Pour la partie HTML/CSS, faire apparaître tout cela dans une image de Pokédex  
 
 ## Comment ça fonctionne ? 
 
